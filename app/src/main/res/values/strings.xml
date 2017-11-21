@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Your First App</string>
+    <string name="restaurant_name">Chair Lunch Dinner</string>
+    <string name="subtitle">Right across the Bed and Breakfast</string>
+    <string name="address">789 All You Can Eat St.</string>
+    <string name="contact_phone">123-456-7890</string>
+    <string name="hours">1pm - 11pm</string>
+</resources>
